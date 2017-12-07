@@ -1,0 +1,105 @@
+{
+  "routing": {
+    "index": "/index.html",
+    "routes": {
+      "/": {
+        "prefix": false
+      },
+      "/posts": {
+        "prefix": false
+      },
+      "/pages": {
+        "prefix": true
+      },
+      "/author": {
+        "prefix": true
+      },
+      "/authors": {
+        "prefix": false
+      },
+      "/category": {
+        "prefix": true
+      },
+      "/categories": {
+        "prefix": false
+      },
+      "/tag": {
+        "prefix": true
+      },
+      "/tags": {
+        "prefix": false
+      },
+      "/bookmarks": {
+        "prefix": false
+      },
+      "/settings": {
+        "prefix": false
+      },
+      "/movies": {
+        "prefix": true
+      },
+      "/actors": {
+        "prefix": true
+      },
+      "/custom-tabs": {
+        "prefix": false
+      }
+    }
+  },
+  "static": {
+    "urls": {
+      "/index.html": "1378d51085af678001cfb0cd8d42500ec99e6968",
+      "/manifest.json": "4116b884aec4b6878ca08506088c5480d5baaa24",
+      "/assets/fonts/ionicons.eot": "5337063ebe6a65b47113f789b82e0c9675cc44d7",
+      "/assets/fonts/ionicons.scss": "cb01fbef8287323c0196d889ac3f5a383b7fc19a",
+      "/assets/fonts/ionicons.svg": "31b83f9eba95d92b7f82fc4c6c0f761e7bb5f59f",
+      "/assets/fonts/ionicons.ttf": "0f7956704fe61b49c41ea1a22051240f700a2b44",
+      "/assets/fonts/ionicons.woff": "d2871a964adb8027f9b765c3a53f95d1392f2b3f",
+      "/assets/fonts/ionicons.woff2": "780a4983b914f7df1b27d7a3f150b3dce27addaa",
+      "/assets/fonts/noto-sans-bold.ttf": "563bd982ccf5b05c6234c40a5758dda2f19160fb",
+      "/assets/fonts/noto-sans-bold.woff": "2337bc8bd09b46bd6782c70356d04745a6c394a7",
+      "/assets/fonts/noto-sans-regular.ttf": "830953c678e6a50697108a9c87d229cef130975a",
+      "/assets/fonts/noto-sans-regular.woff": "abea8738c5ec6ed3a6942cef5c488a13d30ec7e1",
+      "/assets/fonts/noto-sans.scss": "129968c449abcd2e898d789e936e480afe71cd01",
+      "/assets/fonts/roboto-bold.ttf": "c93cb6eb6a75a7f4312fd2bafe5bab7fbadf12d9",
+      "/assets/fonts/roboto-bold.woff": "622799489e97e418c8967cbf1e011dce834e14fa",
+      "/assets/fonts/roboto-bold.woff2": "9406de2646a252af153e3c7e08071da53da8a591",
+      "/assets/fonts/roboto-light.ttf": "f23a0413fdd70117752cf73679d2c5867095eaac",
+      "/assets/fonts/roboto-light.woff": "987731626feefc140cf17fff41bd3213312d6f99",
+      "/assets/fonts/roboto-light.woff2": "0c1dcd61d6f5ddc76815ce9c0f12db4eb8a6a014",
+      "/assets/fonts/roboto-medium.ttf": "620481374c705f0e6e387d281e66a2b250611445",
+      "/assets/fonts/roboto-medium.woff": "3087b20015925170e65cf2b6c1fdbf0cd4ec3b3b",
+      "/assets/fonts/roboto-medium.woff2": "383a3967dab8eb419259d14c755792d9a9586346",
+      "/assets/fonts/roboto-regular.ttf": "89e7bf27190d62c7b508dc92c7012c1180458f4e",
+      "/assets/fonts/roboto-regular.woff": "4932a1b55bd4f3a3dcc95db33ec07ba729e86c61",
+      "/assets/fonts/roboto-regular.woff2": "c5d53e62a476169bacd97459f8172c0776988d8c",
+      "/assets/fonts/roboto.scss": "9959fc5f9e63a96246467b7e4d0785771a75aa4e",
+      "/assets/icons/favicon.ico": "c779512874a993da77f05df4d7e2ad9b5e3ff433",
+      "/assets/icons/icon_128.png": "44149a795bf4a405dbb8748496e19e87a1d9de14",
+      "/assets/icons/icon_144.png": "cefb08588bdd78e36d9922f16775f1c16ba52d46",
+      "/assets/icons/icon_168.png": "82e440e8e969eeca1ed7a6e193df190208c75567",
+      "/assets/icons/icon_192.png": "4547318b9640e55ff7b633429cf6e0402dea6a19",
+      "/assets/icons/icon_48.png": "c4d5cfc9325efea6bf816cff534b78b877183ebb",
+      "/assets/icons/icon_72.png": "3752c05a3115f8b7c3aec92db38fade901fc6884",
+      "/assets/icons/icon_96.png": "e0c50d5a6088b0d512b29ff46c068fc52d44e8f5",
+      "/build/main.css": "86d2e411f88cdd9532f02dccc310f42e40aeb55e",
+      "/build/main.js": "3bd8a7c869641f5c7eb03734b84b2187f3ad6ce1",
+      "/build/polyfills.js": "ed4a38367d64576b3d206de2946bb70647a3fb3a",
+      "/build/vendor.js": "77b34c33aa9725aa83b93f11a2085a3d3594b3f5",
+      "/build/i18n/ar.json": "b23c8fe95e1b29b2b295923f64e152922837df00",
+      "/build/i18n/br.json": "3ef1c307140432f4f6b9fa0500a9b9ab616e1029",
+      "/build/i18n/de.json": "cdce165897247659e5f373f554fbbd90563b4e61",
+      "/build/i18n/en.json": "125f77d8e0b1b93db20797e3829324fc9760df86",
+      "/build/i18n/es.json": "a8c22509ba63fd7a7caf1ad08254ab2f5be4fd3e",
+      "/build/i18n/fr.json": "3b9d329147cdcbea19a1955dcefd709213f2d568",
+      "/build/i18n/it.json": "397d9f10fa257c1c1d882817432c9e80ebb29764",
+      "/build/i18n/nl.json": "5dc7ad6fd56273781a2cc205983e73e81b43a419",
+      "/build/i18n/pl.json": "4b92c66a068dcbced0e82ff91cdd5a494ff0412f",
+      "/build/i18n/pt.json": "72a8b15092cf85ad65250432a49d71a6238b4503",
+      "/build/i18n/ru.json": "8ef7c7019a23a507775d465db9db451dc1248ad4",
+      "/build/i18n/tr.json": "0b5b019d8c36ae17fb8660782ed443b2ead82f3a",
+      "/build/i18n/ur.json": "c49bf0c3139ff947822c9d95d04bd6536c15df21",
+      "/build/i18n/zh.json": "19409dbe4311f60856f75534b7f3dc802afe2e9a"
+    }
+  }
+}
